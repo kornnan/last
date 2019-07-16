@@ -8,28 +8,28 @@ app = Flask(__name__)
 tasks = [
 
     {
-        'rating': 'exelent',
+        'rating': 'exelent:5',
 
         'subject': 'Operation sistem.'  # операционные системы
     },
 
 
     {
-        'rating': 'exelent',
+        'rating': 'exelent:5',
 
         'subject': 'electrical engineering.',  # электротехника
     },
 
 
     {
-        'rating': 'good',
+        'rating': 'good:4',
 
         'subject': 'computational mathematics',  # вычислительная математика
     },
 
 
     {
-        'rating': 'exelent',
+        'rating': 'exelent:5',
 
         'subject': 'computers and peripherals',  # эвм и периферийные устройства
     }
