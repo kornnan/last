@@ -10,14 +10,14 @@ tasks = [
     {
         'rating': 'exelent',
 
-        'subject': 'Operation sistem'  # операционные системы
+        'subject': 'Operation sistem.'  # операционные системы
     },
 
 
     {
         'rating': 'exelent',
 
-        'subject': 'electrical engineering',  # электротехника
+        'subject': 'electrical engineering.',  # электротехника
     },
 
 
