@@ -24,14 +24,14 @@ tasks = [
     {
         'rating': 'good:4',
 
-        'subject': 'computational mathematics',  # вычислительная математика
+        'subject': 'computational mathematics.',  # вычислительная математика
     },
 
 
     {
         'rating': 'exelent:5',
 
-        'subject': 'computers and peripherals',  # эвм и периферийные устройства
+        'subject': 'computers and peripherals.',  # эвм и периферийные устройства
     }
 
 ]
